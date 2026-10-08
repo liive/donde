@@ -1,0 +1,135 @@
+{
+  "restaurant": "Donde",
+  "checked_on": "2026-10-01",
+  "content_source": "https://neakivaizdinisvilnius.lt/en/leisure/donde-tacos/",
+  "photos": [
+    {
+      "file": "assets/photo-01.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Taco with red onion",
+      "source_url": "https://wolt.com/lt/ltu/vilnius/restaurant/donde",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5e905d662a01aeabf6dc0bf8/4f373736-8888-11ea-83a7-0a58646bdb11_inbe7246.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-02.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Kombucha bottles",
+      "source_url": "https://wolt.com/lt/ltu/vilnius/restaurant/donde",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5e905d662a01aeabf6dc0bf8/d41faf04-889d-11ea-a964-0a58646bcf13_dsc_1469k.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-03.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Taco with fresh salsa",
+      "source_url": "https://wolt.com/lt/ltu/vilnius/restaurant/donde",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5e905d662a01aeabf6dc0bf8/8543c74e-891a-11ea-9064-0a58646c020f_inbe7258.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-04.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Taco with shredded vegetables",
+      "source_url": "https://wolt.com/lt/ltu/vilnius/restaurant/donde",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5e905d662a01aeabf6dc0bf8/a10445f8-891a-11ea-bec9-0a58646c1b07_inbe7232.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-05.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Taco with glazed filling",
+      "source_url": "https://wolt.com/lt/ltu/vilnius/restaurant/donde",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5e905d662a01aeabf6dc0bf8/6e7c57ca-8888-11ea-abcb-0a58646be806_inbe7284.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-06.jpg",
+      "width": 1200,
+      "height": 675,
+      "description": "Vegetable taco",
+      "source_url": "https://wolt.com/lt/ltu/vilnius/restaurant/donde",
+      "image_url": "https://wolt-menu-images-cdn.wolt.com/menu-images/5e905d662a01aeabf6dc0bf8/b2b9d0c0-8888-11ea-a7bc-0a58646bd20b_inbe7252.jpeg",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-07.jpg",
+      "width": 320,
+      "height": 480,
+      "description": "Foil-wrapped tacos with lime",
+      "source_url": "https://kuro.lt/blogs/kuro-draugai/donde-tacos",
+      "image_url": "https://cdn.shopify.com/s/files/1/0270/3196/1684/files/Donde2_800x1200_93e3cdb8-eef6-4414-a1d9-faa51c472262_480x480.jpg?v=1607610012",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-08.jpg",
+      "width": 320,
+      "height": 480,
+      "description": "Hands squeezing lime over taco; no face",
+      "source_url": "https://kuro.lt/blogs/kuro-draugai/donde-tacos",
+      "image_url": "https://cdn.shopify.com/s/files/1/0270/3196/1684/files/Donde5_800x1200_d234be40-974f-4f38-a487-d0bf1c8141ad_480x480.jpg?v=1607698443",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-09.jpg",
+      "width": 320,
+      "height": 480,
+      "description": "Overhead taco plates and beer",
+      "source_url": "https://kuro.lt/blogs/kuro-draugai/donde-tacos",
+      "image_url": "https://cdn.shopify.com/s/files/1/0270/3196/1684/files/Donde1_800x1200_9b96be47-af6b-4fb6-b521-1a19dd197d2e_480x480.jpg?v=1607609996",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/photo-10.jpg",
+      "width": 320,
+      "height": 480,
+      "description": "Colorful tacos in a tray",
+      "source_url": "https://kuro.lt/blogs/kuro-draugai/donde-tacos",
+      "image_url": "https://cdn.shopify.com/s/files/1/0270/3196/1684/files/Donde4_800x1200_6ca1326b-eb1c-4569-b1fa-b8aae8bc9090_480x480.jpg?v=1607698372",
+      "reuse": "Unknown; public listing is not a reuse license"
+    },
+    {
+      "file": "assets/wolt-big-bend.jpg",
+      "source_url": "https://wolt.com/lt/ltu/vilnius/restaurant/donde",
+      "image_url": "https://imageproxy.wolt.com/assets/67a0ae923cbcbb5116a3c0ce",
+      "width": 1126,
+      "height": 788
+    }
+  ],
+  "review_note": "10 authentic photos.",
+  "google_maps_status": "Direct Google Maps closure status could not be confirmed.",
+  "photo_rights": "Source photographs are authentic; no explicit republication license verified. Private design preview.",
+  "design_updated_on": "2026-10-04",
+  "gallery_layout": "Single scrolling row, compact 430px maximum cards",
+  "image_enhancement": {
+    "date": "2026-10-07",
+    "method": "Built-in imagegen restoration from original Wolt photographs",
+    "output_dimensions": [
+      1672,
+      941
+    ],
+    "prompt": "Enhance resolution and sharpness, preserving dish, ingredients, overhead composition, plate, tabletop and colors. No text.",
+    "assets": [
+      "assets/photo-01-enhanced.webp",
+      "assets/photo-03-enhanced.webp",
+      "assets/photo-04-enhanced.webp",
+      "assets/photo-05-enhanced.webp",
+      "assets/photo-06-enhanced.webp"
+    ]
+  },
+  "wolt_checked_on": "2026-10-08",
+  "logo_note": "White logo extracted with imagegen from user-provided Instagram screenshot.",
+  "design_palette": {
+    "primary": "#6550a1",
+    "paper": "#fff9e8",
+    "accent": "#eeefa5",
+    "ink": "#30234b",
+    "red": "#d73830"
+  },
+  "style_reference": "User supplied Donde Instagram feed screenshot, 2026-10-08; purple labels, pale yellow typography and red accents."
+}
